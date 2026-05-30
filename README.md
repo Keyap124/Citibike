@@ -16,8 +16,7 @@ Overall, the project demonstrates how technology, operational analytics, and str
 | `main.py`                  | Main Python script used to analyze Citi Bike station reliability, calculate availability metrics, detect operational issues, and generate formatted station reports.              |
 | `station_availability.csv` | Dataset containing Citi Bike station availability information including timestamps, available bikes, available docks, and station names used throughout the reliability analysis. |
 | `Citi Bike - Repaired.pdf` | Strategic relaunch presentation containing operational analysis, redistribution strategies, financial insights, UX/UI mockups, and smart transportation solutions for Citi Bike.  |
-| `README.md`                | Project overview, methodology, operational analysis, and repository documentation.                                                                                               
-
+                                                                                              
 ---
 
 ## Tools & Technologies
